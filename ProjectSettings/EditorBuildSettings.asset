@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3f79e120065ece145b15352f5a2e2694
+  - enabled: 1
+    path: Assets/Scenes/LobbyRoom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RummyRoom.unity
+    guid: 0971eba34f6480e4baab30ea70fa43e6
+  - enabled: 1
+    path: Assets/Scenes/Rummy2D.unity
+    guid: 1e5be973741f4d84b87e24d4fbd9ab3c
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 4e0563ced876fc645bf4d7c13fa503b7
+  - enabled: 1
+    path: Assets/Scenes/Space.unity
+    guid: 77c74de1335b0e04d87488cb638a952f
+  - enabled: 1
+    path: Assets/Scenes/BlackjackRoom.unity
+    guid: 46ebe9d8008288d42aaa1ef129188447
+  - enabled: 1
+    path: Assets/Scenes/Blackjack2D.unity
+    guid: 90161fef6462d094389e8acc06693649
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: f72bea5c09df7d848aef7a1297cc50a2
+  - enabled: 1
+    path: Assets/Scenes/MazeRoom.unity
+    guid: f590129cf0cd1cd43a4e7c0e726d27d6
+  - enabled: 1
+    path: Assets/Scenes/MazeGame.unity
+    guid: ed13f4e6c89d1c644beb936bc2de74d4
+  m_configObjects: {}
